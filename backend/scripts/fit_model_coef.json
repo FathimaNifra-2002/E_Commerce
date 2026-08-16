@@ -1,0 +1,7 @@
+{
+    "intercept": -3.0879934093448465,
+    "coef_user_return_rate": 2.934135668569728,
+    "coef_product_return_rate": 1.924520337883874,
+    "coef_measurement_error": 0.42443798910683467,
+    "coef_size_mismatch": 1.0308836920152833
+}
